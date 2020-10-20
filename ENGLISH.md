@@ -6,7 +6,7 @@
 |   A place    |  London   |
 |   A thing    |  A table  |
 |   An idea    |   Love    |
-<br>
+
 
 ### `To be`(verb) -- simple present
 
@@ -17,7 +17,7 @@
 | we are       | We are girls                            |
 | you are      | You are Lisa                            |
 | they are     | they are apples                         |
-<br>
+
 
 ### `To have`(verb) -- simple present
 
@@ -28,7 +28,7 @@
 | we have       | We have apples                                   |
 | you have      | You have an apple; You have apples               |
 | they have     | They have apples                                 |
-<br>
+
 
 ### Possessives
 
@@ -41,7 +41,7 @@
 | we        | our       | ours      | That is our table; The table is ours          |
 | you       | your      | yours     | That is your table; The table is yours        |
 | they      | their     | theirs    | Those are their apples; The apples are theirs |
-<br>
+
 
 ### `Verbs` -- Simple Present
 
@@ -49,7 +49,7 @@
 | :-------- | :----------------------------------------------------- |
 | `to walk` | I walk; He/she/it walks; We walk; You walk; They walk; |
 | `to go`   | I go; He/she/it goes; We go; You go; They go;          |
-<br>
+
 
 ### `Verbs` -- Simple Present
 
@@ -65,7 +65,7 @@
 | :-------- | :----------------------------------------------------- |
 | `to walk` | I walk; He/she/it walks; We walk; You walk; They walk; |
 | `to go`   | I go; He/she/it goes; We go; You go; They go;          |
-<br>
+
 
 ### `To be`(verb) -- simple present question
 
@@ -76,7 +76,7 @@
 | are we?       | are we going today?                        |
 | are you?      | Are you Lisa?                              |
 | are they?     | Are they apples?                           |
-<br>
+
 
 ### `To be` -- simple present negative
 - I am not
@@ -84,7 +84,7 @@
 - we are not
 - you are not
 - they are not
-<br>
+
 
 ### `To do`(verb) -- simple present question
 - I do
@@ -92,7 +92,7 @@
 - we do
 - you do
 - they do
-<br>
+
 
 ### `To have`(verb) -- simple present question
 - do I have?
@@ -100,7 +100,7 @@
 - do we have?
 - do you have?
 - do they have?
-<br>
+
 
 ### `To have` -- simple present negative
 - I do not have
@@ -108,4 +108,3 @@
 - we do not have
 - you do not have
 - they do not have
-<br>
