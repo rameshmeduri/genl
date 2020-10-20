@@ -99,7 +99,154 @@
 > Information  
 
 
+- - -
+### Pronouns
+- are words that are used in place of `nouns`
+- are used to avoid unnatural speech and repetition
 
+- `definite pronouns`(replace specific nouns and can be further divided into)
+  - subject pronouns
+  - object pronouns
+  - possessive pronouns
+  - personal pronouns
+  - reflexive pronouns
+  - intensive pronouns
+  - demonstrative pronouns
+  - interrogative pronouns
+- `indefinite pronouns`
+
+
+- - -
+### Subject Pronouns
+- replace nouns that are the subject in a sentence
+- replace a name to avoid repetition
+- are: `I`, `he`, `she`, `it`, `we`, `you`, `they`
+
+#### Examples:
+- `I` am a teacher
+- The car is damaged and `it` needs to be repaired
+- `We` are hungry
+- `You` drank my beer
+
+- - -
+### Object Pronouns
+- replace a direct or indirect object in a sentence
+- are: `me`, `him`, `her`, `it`, `us`, `you`, `them`
+
+#### Examples:
+- You gave the book to `me`
+- I can't find `it`
+- Invite `them` to dinner tomorrow
+- Suzi works for `him`
+
+- - -
+### Possessive Pronouns
+- replace possessive nouns
+- can be either the subject or object in a sentence
+- are: `my`, `mine`, `his`, `her`, `hers`, `its`, `our`, `ours`, `your`, `yours`, `their`, `theirs`
+
+#### Examples:
+- The bag is `mine`. It's `my` bag.
+- Have you done `your` homework?
+- This is `our` house. This house is `ours`.
+- That is `their` car. That car is `theirs`.
+
+- - -
+### Personal Pronouns
+- are used to represent a person (or people) in a sentence
+- can also be used to represent animals, objects or ideas
+- can be the subject or object in a sentence
+
+#### Examples:
+- `You` drank `my` beer.
+- `He` helped Suzi with `her` coat.
+- `We` will win the cup - `my` team is unbeatable.
+
+
+- - -
+### Reflexive Pronouns
+- are used in place of a person of thing that is both the `subject` and `object` of the same verb.
+- are never used as the subject.
+- can only act as the object, and only when the person or thing has been used as the subject.
+- Ex : `myself`, `yourself`, `himself`, `herself`, `itself`, `oneself`, `ourselves`, `yourselves`, `themselves`
+
+#### Examples:
+- I saw `myself` in the mirror.
+
+#### Incorrect examples:
+- Myself saw me in the mirror. (I saw `myself` in the mirror)
+- Ourselves heard us singing. (We heard `ourselves` singing)
+
+
+- - -
+### Intensive Pronouns
+- are used to emphasise the `subject` in a sentence
+- are not the `object` of an action
+- are very similar to `reflexive pronouns`
+
+#### Examples:
+- I made that cake `myself`
+- You told me the location `yourself`
+- The President `himself` wrote me a letter
+
+
+- - -
+### Demonstrative Pronouns
+- are used to replace nouns that are close by (this, these)
+- are used to replace nouns that are far away (that, those)
+- require context to identify the nouns that they replace
+
+#### Examples:
+- I made `this` cake myself.
+- You will like `these` cookies.
+- `That` is Suzi over there.
+- I like `those` houses.
+
+
+- - -
+### Interrogative Pronouns
+- are used in questions to replace nouns.
+- can be the subject or object in a sentence.
+- can be used in direct, indirect or reported questions.
+- main ones are who, whom, whose, which, what.
+
+#### Examples:
+- `Who` is coming to the party tonight? (direct question)
+- Could you tell me `whose` these are? (indirect question)
+- She wants to know `which` is correct. (reported question)
+- You're wearing `what` to the party? (indirect question, emphasis)
+
+
+- - -
+### Interrogative Pronouns
+- are used in questions to replace nouns.
+- can be the subject or object in a sentence.
+- can be used in direct, indirect or reported questions.
+- main ones are who, whom, whose, which, what.
+
+#### Examples:
+- `Who` is coming to the party tonight? (direct question)
+- Could you tell me `whose` these are? (indirect question)
+- She wants to know `which` is correct. (reported question)
+- You're wearing `what` to the party? (indirect question, emphasis)
+
+
+#### Details:
+`Who` is used for the `subject` in a sentence
+`Whom` is used for the `object` in a sentence
+The easy trick is to link `who to he`, and `whom to him`
+
+#### Examples:
+- `Who` is coming to the party tonight? (he is coming)
+- To `whom` do these shoes belong? (they belong to him)
+
+
+
+
+
+
+
+=============================================
 - - -
 ### `To be`(verb) -- simple present
 
