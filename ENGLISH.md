@@ -1,4 +1,4 @@
-##### What is a `Noun`?
+### What is a `Noun`?
 
 | `definition` | `example` |
 | :----------: | :-------: |
@@ -6,9 +6,9 @@
 |   A place    |  London   |
 |   A thing    |  A table  |
 |   An idea    |   Love    |
+<br>
 
-<br />
-##### `To be`(verb) -- simple present
+### `To be`(verb) -- simple present
 
 | `definition` | `example`                               |
 | :----------- | :-------------------------------------- |
@@ -17,9 +17,9 @@
 | we are       | We are girls                            |
 | you are      | You are Lisa                            |
 | they are     | they are apples                         |
+<br>
 
-<br />
-##### `To have`(verb) -- simple present
+### `To have`(verb) -- simple present
 
 | `definition`  | `example`                                        |
 | :------------ | :----------------------------------------------- |
@@ -28,9 +28,9 @@
 | we have       | We have apples                                   |
 | you have      | You have an apple; You have apples               |
 | they have     | They have apples                                 |
+<br>
 
-<br />
-##### Possessives
+### Possessives
 
 | `example` | `example` | `example` | `example`                                     |
 | :-------- | :-------- | :-------- | :-------------------------------------------- |
@@ -41,17 +41,17 @@
 | we        | our       | ours      | That is our table; The table is ours          |
 | you       | your      | yours     | That is your table; The table is yours        |
 | they      | their     | theirs    | Those are their apples; The apples are theirs |
+<br>
 
-<br />
-##### `Verbs` -- Simple Present
+### `Verbs` -- Simple Present
 
 | `example` | `example`                                              |
 | :-------- | :----------------------------------------------------- |
 | `to walk` | I walk; He/she/it walks; We walk; You walk; They walk; |
 | `to go`   | I go; He/she/it goes; We go; You go; They go;          |
+<br>
 
-<br />
-##### `Verbs` -- Simple Present
+### `Verbs` -- Simple Present
 
 > We use the simple present for
 
@@ -65,9 +65,9 @@
 | :-------- | :----------------------------------------------------- |
 | `to walk` | I walk; He/she/it walks; We walk; You walk; They walk; |
 | `to go`   | I go; He/she/it goes; We go; You go; They go;          |
+<br>
 
-<br />
-##### `To be`(verb) -- simple present question
+### `To be`(verb) -- simple present question
 
 | `example`     | `example`                                  |
 | :------------ | :----------------------------------------- |
@@ -76,35 +76,36 @@
 | are we?       | are we going today?                        |
 | are you?      | Are you Lisa?                              |
 | are they?     | Are they apples?                           |
+<br>
 
-<br />
-##### `To be` -- simple present negative
+### `To be` -- simple present negative
 - I am not
 - he/she/it is not
 - we are not
 - you are not
 - they are not
+<br>
 
-<br />
-##### `To do`(verb) -- simple present question
+### `To do`(verb) -- simple present question
 - I do
 - he/she/it does
 - we do
 - you do
 - they do
+<br>
 
-<br />
-##### `To have`(verb) -- simple present question
+### `To have`(verb) -- simple present question
 - do I have?
 - does he/she/it have?
 - do we have?
 - do you have?
 - do they have?
+<br>
 
-<br />
-##### `To have` -- simple present negative
+### `To have` -- simple present negative
 - I do not have
 - he/she/it does not have
 - we do not have
 - you do not have
 - they do not have
+<br>
