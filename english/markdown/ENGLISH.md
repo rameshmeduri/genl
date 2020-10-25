@@ -240,7 +240,64 @@ The easy trick is to link `who to he`, and `whom to him`
 - `Who` is coming to the party tonight? (he is coming)
 - To `whom` do these shoes belong? (they belong to him)
 
+- - -
+### Indefinite Pronouns
+- are placed in the same location as the noun it replaces.
+- do not refer to a specific noun and can be formed with variations of `any`, `some`, `every`, `no`
 
+### Indefinite Pronouns with `any`
+- refer to indefinite and incomplete quantities.
+- are used in questions where the answer is not known.
+- are used with `not` to emphasise negative sentences.
+
+#### Examples:
+- Do they have `any` children?
+- Are you going `anywhere` nice on your holidays?
+- She doesn't want `any` cake.
+- I don't want `anything` to do with him.
+
+
+### Indefinite Pronouns with `some`
+- refer to indefinite and incomplete quantities.
+- are used in questions where you think you know the answer
+- are used in questions to ask for, or to offer, something
+
+#### Examples:
+- We drank `some` beer last night
+- Someone's been sleeping in my bed
+- Are you going `somewhere` nice on your holidays?
+- Would you like `some` tea?
+
+
+### Indefinite Pronouns with `every`
+- refer to plurals but are considered singular.
+- refer to a group of people, things, or places.
+
+#### Examples:
+We can start - `everybody` is here.
+It will be a big party - `everyone` is invited.
+They lost `everything` in the fire.
+I can't find my phone - I've looked `everywhere` for it.
+
+
+### Indefinite Pronouns with `no`
+- refer to plurals but are considered singular.
+- refer to an absence of people, things, or places.
+
+#### Examples:
+- She is very lonely - `nobody` visits her
+- We made all that food and `no one` came
+- This town is dull - `nothing` ever happens here
+- There was `nowhere` to park the car
+
+
+### Indefinite Pronouns Placement
+- They are placed in the same location as the noun(s) they replace.
+
+#### Examples:
+- I won't tell `Paul` what you did. I won't tell `anyone` what you did.
+- He have me `a present` . He gave me `something`.
+- We bought `the food` there. We bought everything there.
 
 
 
